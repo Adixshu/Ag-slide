@@ -2,6 +2,9 @@
 
 Ag-Slide is an AI-native presentation workspace for building, editing, and presenting slide decks alongside structured WebMCP agent actions. Humans can edit the canvas directly while an agent creates slides, changes the deck theme, and inserts metrics into the same live state.
 
+<img width="2528" height="1696" alt="Gemini_Generated_Image_z5nvxvz5nvxvz5nv" src="https://github.com/user-attachments/assets/89bb7c76-f087-47db-8868-df749da580e6" />
+
+
 ## Highlights
 
 - Visual slide editor with thumbnail navigation, inline text and metric editing, duplication, deletion, and drag-to-reorder support
