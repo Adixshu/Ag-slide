@@ -7,7 +7,7 @@ Ag-Slide is an AI-native presentation workspace for building, editing, and prese
 
 ## Highlights
 
-- Visual slide editor with thumbnail navigation, inline text and metric editing, duplication, deletion, and drag-to-reorder support
+- Visual slide editor with thumbnail navigation, inline text and metric editing, duplication, deletion, and drag-to-reorder support...
 - Four slide layouts: `hero`, `content`, `two-column`, and `metrics`
 - Four visual themes: `acid`, `cyber`, `vapor`, and `mono`
 - Presenter mode with fullscreen navigation using the arrow keys or Space
